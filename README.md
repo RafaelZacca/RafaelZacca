@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @RafaelZacca
-- 👀 I’m interested in growing as a developer by learning interesting leading edge technologies
-- 🌱 I’m currently working with React, having understood how .NET Core, Angular and some other technologies work
-- 💞️ I’m looking to collaborate on interesting small projects with leading edge technologies, like GraphQL or NodeJS with MongoDB
-- 📫 You can find me at [LinkedIn](https://www.linkedin.com/in/rafael-francisco-zacca-romano-4ba105149/)
+# 👋 Hi, I'm Rafael Zacca
+
+I'm a Senior Software Engineer with 7+ years of experience building scalable frontend and backend applications. My focus is on delivering clean, maintainable code and collaborating with cross-functional teams to create impactful software.
+
+🚀 Currently working with **React**, **TypeScript**, and exploring modern architectures including **microservices** and **cloud-based solutions** on **AWS**. I also have a strong background in **.NET Core**, **Angular**, **Xamarin**, and various relational and NoSQL databases.
+
+💼 Recently transitioning into an Engineering Leadership role, where I'm mentoring developers and helping shape technical direction while remaining hands-on.
+
+💡 I'm always interested in connecting with fellow developers and contributing to projects involving any innovative tech that pushes boundaries.
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/rafael-francisco-zacca-romano-4ba105149/)
